@@ -8,7 +8,7 @@ This project automates the process of searching and updating records in Airtable
 
 ## 🖼️ Screenshot
 
-![Gmail Automation Screenshot]()
+![Gmail Automation Screenshot](https://github.com/Abhi5099/airtable-gpt-automation/blob/main/Screenshot%202025-06-01%20082249.png?raw=true)
 
 *This image shows a four-module scenario: Search Records → ChatGPT Completion → ChatGPT Completion → Update Record*
 
